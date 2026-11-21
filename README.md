@@ -57,3 +57,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# inquiry-system
+A web based Inquiry Management System developed using HTML,CSS,JavaScript,and MYSQL.It allows users to submit inquiries and helps manage and organize inquiry records efficiently.
